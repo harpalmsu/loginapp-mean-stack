@@ -1,0 +1,20 @@
+{
+  "name": "meanapp511",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "express-generator": "^4.13.1",
+    "express-session": "^1.13.0",
+    "mongoose": "^4.4.16",
+    "morgan": "^1.7.0"
+  }
+}
